@@ -3,15 +3,21 @@
 Расскажу о себе:
 Мне 34 года, живу  в 15 км от Москвы.
 Около 8 лет занимаюсь разработкой Веб.
-Это были игры(NextGame, Destiny Development, MailRU)
+<br>
+Это были Игры(NextGame, Destiny Development, MailRU)
+<br>
 Самописные фремворки(ISBC Telecom, B2B-Center)
+<br>
 Битрикс(Qsoft, GreenSight)
 
 
-Работал с игрой: https://s1.jugger.mail.ru/ (MailRu)
-Казуал игры вКонтакте: https://vk.com/vkagar
-Небольшие гонки: https://github.com/a-f-larionov/x-racing
 
+Участвовал в поддержке\доработки, разрабатывал турнирную таблицу,
+клановые задачи(инстансы подземелий) и другое: https://s1.jugger.mail.ru/ (MailRu)
+<br>Казуал игры вКонтакте: https://vk.com/vkagar
+Новогдняя Ёлка, Петы, интеграция с Одноклассниками, Фейсбуком.
+Небольшие гонки: https://github.com/a-f-larionov/x-racing это было тестовое задание :)
+Есть и другой игровой опыт.
 
 Требования:
 -  __PHP__ - Свободно.
